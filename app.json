@@ -1,7 +1,7 @@
 {
-  "name": "ModMail",
+  "name": "Mazikeen ModMail",
   "description": "An easy to install ModMail bot for Discord - DM to contact mods!",
-  "repository": "https://github.com/kyb3r/modmail",
+  "server": "https://discord.gg/REtW3QF4zB",
   "env": {
     "TOKEN": {
         "description": "Your discord bot's token.",
